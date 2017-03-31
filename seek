@@ -1,0 +1,3 @@
+The mysql_data_seek() function is used to move internal result pointer.
+Refers to the resource return by a valid mysql query, by calling mysql_query()
+The mysqli_data_seek() function adjusts the result pointer to an arbitrary row in the result-set.
