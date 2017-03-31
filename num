@@ -1,0 +1,2 @@
+
+int mysql_num_rows ( resource $result )
