@@ -1,0 +1,5 @@
+
+ page redirection done in PHP
+header(string,replace,http_response_code)
+header('location:pagename');
+eg:...header('location:1.php');
