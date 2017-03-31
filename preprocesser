@@ -1,0 +1,12 @@
+
+C Preprocessor directives: Before a C program is compiled in a compiler, source code is processed by a program called preprocessor. This process is called preprocessing.
+ Commands used in preprocessor are called preprocessor directives and they begin with “#” symbol.
+ 
+ Preprocessor directives are lines included in a program that being with the character #, which make them different from a typical source code text. 
+ They are invoked by the compiler to process some programs before compilation.
+ 
+ 
+    Before a C program is compiled in a compiler, source code is processed by a program called preprocessor.This process is called preprocessing.
+    Commands used in preprocessor are called preprocessor directives and they begin with “#” symbol.
+
+ 
